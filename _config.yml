@@ -1,9 +1,9 @@
 title: Long Haul
 description: Long Form Jekyll theme built with SASS
 
-url: https://long-haul.netlify.app
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+url: https://geanramos.github.io/long-haul
+paginate_path: "page:num/"
+permalink: :title.txt
 
 # Header Option
 # header: large
@@ -25,13 +25,13 @@ navigation:
       url: /contact
 
 social:
-    github: brianmaierjr
-    twitter: brianmaierjr
-    facebook: brianmaierjr
-    email: brimaidesigns@gmail.com
-    linkedin: brianmaierjr
+    github: geanramos
+    twitter: geanramos
+    facebook: geanramoss
+    email: geanramus@gmail.com
+    linkedin: geanramos
 
-google_analytics: "UA-58263416-1"
+google_analytics: "UA-xxxxxxxx-xx"
 
 disqus:
-    shortname: brianmaierjr
+    shortname: geanramos
