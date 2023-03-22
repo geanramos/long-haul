@@ -2,8 +2,8 @@ title: Long Haul
 description: Long Form Jekyll theme built with SASS
 
 url: https://geanramos.github.io/long-haul
-paginate_path: "page:num/"
-permalink: :title.txt
+paginate_path: "long-haul/page/:num/"
+permalink: long-haul/:title.html
 
 # Header Option
 # header: large
